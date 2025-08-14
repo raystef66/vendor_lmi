@@ -434,11 +434,18 @@ PRODUCT_PACKAGES += \
     libadpcmdec \
     libaudcal \
     libaudio_log_utils \
+    libaudioparsers \
     libaudioroute_ext \
+    libbatterylistener \
+    libcomprcapture \
+    libexthwplugin \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
+    libhdmiedid \
+    libhdmipassthru \
+    libhfp \
     liblistensoundmodel2 \
     libmmosal_vendor \
     libmulawdec \
@@ -452,6 +459,8 @@ PRODUCT_PACKAGES += \
     libresampler \
     libsmwrapper \
     libsn100u_fw \
+    libsndmonitor \
+    libspkrprot \
     libssrec \
     libasphere \
     libmisoundfx \

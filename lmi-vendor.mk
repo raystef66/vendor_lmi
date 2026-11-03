@@ -581,7 +581,6 @@ PRODUCT_PACKAGES += \
     audio.bluetooth_qti.default \
     camera.qcom \
     com.qti.chi.override \
-    consumerir.kona \
     fingerprint.goodix_fod.default \
     fingerprint.goodix_fod6.default \
     vendor.qti.esepowermanager@1.1-impl \
